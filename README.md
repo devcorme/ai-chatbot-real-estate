@@ -1,6 +1,6 @@
-## Artifact File for Real Estate Agent  
+## Artifact for Real Estate Agent  
 
-The artifact file for the real estate agent can be found at:  
+The artifact for the real estate agent can be found at:  
 
 /artifacts/real-estate
 
@@ -22,8 +22,8 @@ Tools can be found in:
 
 
 There are two implemented tools:  
-1. **real-estate-review** – Finds the three best listings.  
-2. **real-estate-offer** – Provides listing history based on the listing ID, including possible changes.  
+1. **real-estate-review** – Provides listing history based on the listing ID, including possible changes.  
+2. **real-estate-offer** – Finds the three best listings.
 
 Both tools target the same endpoint since the implemented agent has both functionalities.  
 
