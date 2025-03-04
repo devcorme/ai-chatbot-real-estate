@@ -6,9 +6,9 @@ The artifact file for the real estate agent can be found at:
 
 
 It consists of three main components:  
-- **Image Slideshow** – Handles the image gallery for a listing.  
-- **Map** – Displays the location of listings.  
-- **Listing Page** – Shows detailed information about a listing.  
+- **Image Slideshow**
+- **Map**
+- **Listing Page** 
 
 All three components are gathered into one via the **client file**.  
 
